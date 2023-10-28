@@ -44,27 +44,27 @@ Aplicación para la traducción unilateral de palabras básicas del español al 
 <table style="width:100%">
 <tr>
 <td>
-<a href="https://play.google.com/store/apps/details?id=com.apptempa.traductor">
+<a href="https://play.google.com/store/apps/details?id=com.apptempa.traductor" target="_blank" rel="noopener noreferrer">
 <img src="https://play-lh.googleusercontent.com/GmfdcZ-_ldJCPWTnFkptyFJrigC7vszkaVjRgbbK1OOmTaKZEyraQUzJjIUCzgRgFYML=w2560-h1440-rw">
 </a>
 </td>
 <td>
-<a href="https://play.google.com/store/apps/details?id=com.apptempa.traductor">
+<a href="https://play.google.com/store/apps/details?id=com.apptempa.traductor" target="_blank" rel="noopener noreferrer">
 <img src="https://play-lh.googleusercontent.com/k4GXBw15Cp0yE9u75YjHf0ephIZICphr0upuvxsrVL8aU-w8XVYl8dTmRiI_Z5PUq4g=w2560-h1440-rw">
 </a>
 </td>
 <td>
-<a href="https://play.google.com/store/apps/details?id=com.apptempa.traductor">
+<a href="https://play.google.com/store/apps/details?id=com.apptempa.traductor" target="_blank" rel="noopener noreferrer">
 <img src="https://play-lh.googleusercontent.com/6DnDA8W0wdlhRxJPotrxNQyiEYLW29jvuSao4z0FOTWUfD_RyjvV8TOkrMRsW_Z1tQ=w2560-h1440-rw">
 </a>
 </td>
 <td>
-<a href="https://play.google.com/store/apps/details?id=com.apptempa.traductor">
+<a href="https://play.google.com/store/apps/details?id=com.apptempa.traductor" target="_blank" rel="noopener noreferrer">
 <img src="https://play-lh.googleusercontent.com/wMC7H1sHf98oy6OU0JIUE7HhHp3uQEdDwSxG74tdnY-zZjyorVdY5DT7UnjioC0ufkk=w2560-h1440-rw">
 </a>
 </td>
 <td>
-<a href="https://play.google.com/store/apps/details?id=com.apptempa.traductor">
+<a href="https://play.google.com/store/apps/details?id=com.apptempa.traductor" target="_blank" rel="noopener noreferrer">
 <img src="https://play-lh.googleusercontent.com/p3tfGx2rZBEz5wATedm-nPiKh7HtzbBqInASfv8cF3cY4v3q73llK4OZa0O_EKbeHe8=w2560-h1440-rw">
 </a>
 </td>
