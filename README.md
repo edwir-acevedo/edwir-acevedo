@@ -74,4 +74,4 @@ Aplicación para la traducción unilateral de palabras básicas del español al 
 ## Contacto:
 [![Email](https://img.shields.io/badge/eracac99@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:eracac99@gmail.com)
 </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edwir_Acevedo_Acevedo_(respuesta_rápida)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/edwiracevedoacevedo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edwir_Acevedo_Acevedo_(respuesta_rápida)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/edwiracevedoacevedo/)
