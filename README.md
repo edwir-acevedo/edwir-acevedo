@@ -1,44 +1,36 @@
-# Hola👋, mi nombre es Edwir Acevedo  👨🏻‍💻
+# Hola 👋, soy Edwir Acevedo 👨🏻‍💻
 
-Soy ingeniero en Computación y un apasionado del desarrollo de software (y del minecraft 😁).
+Desarrollador Salesforce con más de 2 años de experiencia construyendo y dando soporte a soluciones sobre la plataforma Salesforce.
 
-Actualmente, trabajo como desarrollador Salesforce. Al mismo tiempo, me estoy enfocando en mi aprendizaje como desarrollador móvil. Mi objetivo en los próximos años es destacar como desarrollador independiente de aplicaciones móviles, tanto nativas como multiplataforma.
+Actualmente participando en soporte nivel 3 y proyectos de mejora continua, desarrollando soluciones con Apex, componentes Lightning (Aura y LWC), integraciones REST/SOAP y configuraciones low-code/no-code. Buscando siempre implementar buenas prácticas y mejorar constantemente mis capacidades técnicas en el ecosistema de Salesforce.
 
-¡Bienvenido a mi perfil de GitHub, donde comparto mi viaje hacia la excelencia en el desarrollo de software!
+De forma complementaria, desarrollo proyectos personales en desarrollo móvil, principalmente en Android, lo que me permite fortalecer mis habilidades de programación, arquitectura y buenas prácticas de desarrollo de software.
 
-## Tecnologías:
-#### Conocimientos intermedios
+## Tecnologías
+#### Salesforce
 [![Salesforce](https://img.shields.io/badge/Salesforce-009EDB?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=101010)]()
-</br>
-[![C](https://img.shields.io/badge/C-659AD2?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-E84135?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Apex](https://img.shields.io/badge/Apex-009EDB?style=for-the-badge&logo=apex&logoColor=white&labelColor=101010)]()
 </br>
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+</br>
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+</br>
+
+#### Mobile
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+</br>
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-E84135?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+</br>
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
-
-#### Conocimientos básicos
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
-</br>
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-</br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 </br>
-Y alguna más...
 
-## Aprendiendo y mejorando en:
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-
-## Trabajando en:
-### [Apptempa - traductor zapoteco](https://play.google.com/store/apps/details?id=com.apptempa.traductor) _(Versión 2.0.0 en desarrollo)_
+## Proyectos
+### [Apptempa - traductor zapoteco](https://play.google.com/store/apps/details?id=com.apptempa.traductor)
 Aplicación para la traducción unilateral de palabras básicas del español al zapoteco. El objetivo principal de la aplicación es apoyar la preservación de la lengua indígena zapoteca en su variante del Istmo de Tehuantepec. La idea de crear esta aplicación surgió a raíz de ser un hablante nativo de la lengua indígena zapoteca y mi profundo interés en contribuir de alguna manera a evitar la pérdida de esta hermosa lengua.
 
 <table style="width:100%">
@@ -71,7 +63,7 @@ Aplicación para la traducción unilateral de palabras básicas del español al 
 </tr>
 </table>
 
-## Contacto:
-[![Email](https://img.shields.io/badge/eracac99@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:eracac99@gmail.com)
+## Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edwir_Acevedo_Acevedo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/edwir-acevedo/)
 </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edwir_Acevedo_Acevedo_(respuesta_rápida)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/edwiracevedoacevedo/)
+[![Email](https://img.shields.io/badge/Gmail-eracac99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:eracac99@gmail.com)
