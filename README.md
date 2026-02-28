@@ -1,6 +1,6 @@
 # Hola 👋, soy Edwir Acevedo 👨🏻‍💻
 
-Desarrollador Salesforce con más de 2 años de experiencia construyendo y dando soporte a soluciones sobre la plataforma Salesforce.
+Desarrollador Salesforce con 3 años de experiencia construyendo y dando soporte a soluciones sobre la plataforma Salesforce.
 
 Actualmente participando en soporte nivel 3 y proyectos de mejora continua, desarrollando soluciones con Apex, componentes Lightning (Aura y LWC), integraciones REST/SOAP y configuraciones low-code/no-code. Buscando siempre implementar buenas prácticas y mejorar constantemente mis capacidades técnicas en el ecosistema de Salesforce.
 
