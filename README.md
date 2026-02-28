@@ -4,7 +4,7 @@ Desarrollador Salesforce con 3 años de experiencia construyendo y dando soporte
 
 Actualmente participando en soporte nivel 3 y proyectos de mejora continua, desarrollando soluciones con Apex, componentes Lightning (Aura y LWC), integraciones REST/SOAP y configuraciones low-code/no-code. Buscando siempre implementar buenas prácticas y mejorar constantemente mis capacidades técnicas en el ecosistema de Salesforce.
 
-De forma complementaria, desarrollo proyectos personales en desarrollo móvil, principalmente en Android, lo que me permite fortalecer mis habilidades de programación, arquitectura y buenas prácticas de desarrollo de software.
+De forma complementaria, desarrollo proyectos personales en plataformas móviles, principalmente en Android, lo que me permite fortalecer mis habilidades de programación, arquitectura y buenas prácticas de desarrollo de software.
 
 ## Tecnologías
 #### Salesforce
